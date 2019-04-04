@@ -6,3 +6,4 @@ I will use github share my little experience in unity.
 Glad to see you. Hope you have a nice day.
 --testcommit
 --addby pr
+--main pr
